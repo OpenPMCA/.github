@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/OpenPMCA"><img src="https://img.shields.io/badge/Community-OpenPMCA-blue?style=flat-square&logo=github" alt="OpenPMCA"></a>
-  <a href="https://github.com/OpenPMCA/Sony-A7-PMCA"><img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Linux-brightgreen?style=flat-square" alt="Cross Platform"></a>
+  <a href="https://github.com/OpenPMCA/Sony-Open-PMCA"><img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Linux-brightgreen?style=flat-square" alt="Cross Platform"></a>
   <a href="https://github.com/OpenPMCA"><img src="https://img.shields.io/badge/License-GPL--3.0%20%2F%20MIT-orange?style=flat-square" alt="License"></a>
   <a href="https://github.com/OpenPMCA/.github/issues"><img src="https://img.shields.io/badge/Contributions-Welcome-success?style=flat-square" alt="Contributions Welcome"></a>
 </p>
@@ -25,8 +25,8 @@ OpenPMCA is an open-source initiative dedicated to maintaining, modernizing, and
 
 | Project | Description | Platform | Status |
 | :--- | :--- | :--- | :--- |
-| **[Sony-A7-PMCA](https://github.com/OpenPMCA/Sony-A7-PMCA)** | Modern desktop manager and camera diagnostics utility for PMCA-compatible Sony cameras. Supports installing custom apps, unlocking language restrictions, and dumping camera logs. | Native macOS, Windows & Linux | 🟢 Active |
-| **PMCA Tweak Framework** *(Upcoming)* | Lightweight in-camera tweaks (removing recording limits, enabling clean HDMI, custom profiles). | In-camera Android Subsystem | 🟡 In Development |
+| **[Sony-Open-PMCA](https://github.com/OpenPMCA/Sony-Open-PMCA)** | Modern desktop manager and camera diagnostics utility for PMCA-compatible Sony cameras. Supports installing custom apps, unlocking language restrictions, and dumping camera logs. | Native macOS, Windows & Linux | 🟢 Active |
+| **[PMCA-Tweak-Framework](https://github.com/OpenPMCA/PMCA-Tweak-Framework)** | Framework and utilities for in-camera tweaks on PMCA-enabled Sony cameras (disabling video recording limits, language unlocking, custom scripts). | In-camera Android Subsystem | 🟡 Active Development |
 
 ---
 
