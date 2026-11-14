@@ -1,44 +1,19 @@
-<div align="center">
-
 # OpenPMCA
 
-### Open Developer Community for Sony PlayMemories Camera Apps (PMCA)
+Open tools for Sony cameras that run PlayMemories Camera Apps (PMCA).
 
-<p align="center">
-  <a href="https://github.com/OpenPMCA"><img src="https://img.shields.io/badge/Community-OpenPMCA-blue?style=flat-square&logo=github" alt="OpenPMCA"></a>
-  <a href="https://github.com/OpenPMCA/Sony-Open-PMCA"><img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Linux-brightgreen?style=flat-square" alt="Cross Platform"></a>
-  <a href="https://github.com/OpenPMCA"><img src="https://img.shields.io/badge/License-GPL--3.0%20%2F%20MIT-orange?style=flat-square" alt="License"></a>
-  <a href="https://github.com/OpenPMCA/.github/issues"><img src="https://img.shields.io/badge/Contributions-Welcome-success?style=flat-square" alt="Contributions Welcome"></a>
-</p>
+## Projects
 
----
+- [Sony Open PMCA](https://github.com/OpenPMCA/Sony-Open-PMCA): desktop app for macOS, Windows and Linux. Reads camera details, installs apps from a catalog or an APK file, and runs tweak tools for older bodies.
+- [Open-PMCA-Tweak-Framework](https://github.com/OpenPMCA/Open-PMCA-Tweak-Framework): Java library and build tooling for apps that run on the camera (Android API 10).
+- [Hello Camera](https://github.com/OpenPMCA/Hello-Camera): read-only diagnostic app built on the framework.
 
-</div>
+## Camera support
 
-## 🔭 About
+Only the Sony ILCE-7 with RecipeLab and Hello Camera has been verified on hardware. Other models follow the upstream device list and are unverified. A report with the model, firmware and what happened is the most useful contribution.
 
-OpenPMCA is an open-source initiative dedicated to maintaining, modernizing, and developing tools for Sony cameras powered by the PlayMemories Camera Apps subsystem. We empower photographers, researchers, and developers to take full ownership of their camera hardware through open diagnostics, tweak utilities, and cross-platform tooling.
+## Contributing
 
----
+Open an issue or a pull request in the repository concerned. All projects are MIT licensed.
 
-## 🚀 Projects
-
-| Project | Description | Platform | Status |
-| :--- | :--- | :--- | :--- |
-| **[Sony-Open-PMCA](https://github.com/OpenPMCA/Sony-Open-PMCA)** | Modern desktop manager and camera diagnostics utility for PMCA-compatible Sony cameras. Supports installing custom apps, unlocking language restrictions, and dumping camera logs. | Native macOS, Windows & Linux | 🟢 Active |
-| **[PMCA-Tweak-Framework](https://github.com/OpenPMCA/PMCA-Tweak-Framework)** | Framework and utilities for in-camera tweaks on PMCA-enabled Sony cameras (disabling video recording limits, language unlocking, custom scripts). | In-camera Android Subsystem | 🟡 Active Development |
-
----
-
-## 🤝 Contributing
-
-We welcome contributions of all kinds:
-- 🐛 **Issue Reports:** Submit bug reports and feature requests in the relevant repository.
-- 🧪 **Testing:** Help test desktop builds and diagnostics across different camera models and operating systems.
-- 💡 **Pull Requests:** Open a PR to help improve tools, reverse-engineering documentation, or device support.
-
----
-
-## ⚠️ Disclaimer
-
-OpenPMCA is an independent open-source project and is **not** affiliated with, sponsored by, or endorsed by Sony Corporation. "Sony", "Alpha", "Cyber-shot", and "PlayMemories Camera Apps" are trademarks of Sony Corporation. Use all software and tools at your own discretion.
+OpenPMCA is independent and is not affiliated with or endorsed by Sony. Sony, Alpha, Cyber-shot and PlayMemories Camera Apps are trademarks of Sony Corporation.
